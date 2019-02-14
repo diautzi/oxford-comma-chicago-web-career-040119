@@ -4,5 +4,5 @@ def oxford_comma(array)
 else
   if array.size == 2
     array.join("and")
-    
+  end
 end
