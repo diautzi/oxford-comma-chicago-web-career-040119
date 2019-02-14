@@ -6,7 +6,7 @@ else
     array.join(" and ")
   else 
     array = array.insert(-2, "and")
-    array.join(" , ")
+    array.join(" , ") 
   end
   end
 end
